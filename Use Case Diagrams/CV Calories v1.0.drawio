@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T13:01:54.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5Ol2oZ_WreoKwBd8BRYD" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T13:17:08.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="39-ofHVAb-3vXk9G8uBc" version="21.7.1" type="github">
   <diagram name="Page-1" id="LvjpsSYiFBj9zBLGzPmu">
     <mxGraphModel dx="925" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,16 +36,16 @@
         <mxCell id="Urzz401wbMbn4Pt66lUd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="Urzz401wbMbn4Pt66lUd-11" target="Urzz401wbMbn4Pt66lUd-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Urzz401wbMbn4Pt66lUd-11" value="See detected food name &lt;br style=&quot;font-size: 11px;&quot;&gt;and its metadata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="Urzz401wbMbn4Pt66lUd-11" value="See detected food name &lt;br style=&quot;font-size: 11px;&quot;&gt;and its data" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="370" y="160" width="179" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vmRqja1-odZnFc-yADqm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Urzz401wbMbn4Pt66lUd-13" target="Urzz401wbMbn4Pt66lUd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Urzz401wbMbn4Pt66lUd-13" value="Manually food name and/or metadata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="Urzz401wbMbn4Pt66lUd-13" value="Manually food name and/or data" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="595" y="70" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Urzz401wbMbn4Pt66lUd-17" value="Log food + metadata consumed today" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="Urzz401wbMbn4Pt66lUd-17" value="Log food + data consumed today" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="580" y="155" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Urzz401wbMbn4Pt66lUd-20" value="Modify logged entries" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
