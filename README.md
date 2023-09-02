@@ -13,7 +13,7 @@ This is a cross-platform application designed to make tracking your daily calori
 
 ## Technology Stack
 * **Frontend**: React Native
-* **Database**: SQlite
+* **Database**: SQlite/TBD
 * **Machine Learning**: TBD
 
 ## Functional Requirements:
