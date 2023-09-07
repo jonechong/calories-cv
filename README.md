@@ -44,6 +44,7 @@ TBD
 ### Machine Learning
 TBD
 
+Figma Diagram (Work in Prog): https://www.figma.com/file/iJP6Gb055rOCt3edaB5Otz/cv-calories?type=design&node-id=0%3A1&mode=design&t=tOIJlxvQDAjwolk3-1
 
 
 
