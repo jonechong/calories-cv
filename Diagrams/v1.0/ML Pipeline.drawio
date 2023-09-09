@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" modified="2023-09-09T06:48:41.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HmkrdEKm1vPfhxyWVCYn" version="21.7.2" type="device">
+  <diagram name="Page-1" id="Eebbi1r0taPPuIMRpHZ8">
+    <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="1210" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;opacity=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="60" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-1" value="Datasets with images, but without nutrition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="152.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-3" value="Training for food recognition" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-1" target="rD10jq5jBqiWgQs5DLjs-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="335" as="sourcePoint" />
+            <mxPoint x="440" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-9" value="Train Recognition Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="155" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-14" value="Trained Recognition Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="354.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-15" target="rD10jq5jBqiWgQs5DLjs-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="550" />
+              <mxPoint x="850" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-15" target="rD10jq5jBqiWgQs5DLjs-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="510" />
+              <mxPoint x="870" y="450" />
+              <mxPoint x="215" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-15" value="Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="480" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-17" value="Predicting food" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-19" target="rD10jq5jBqiWgQs5DLjs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-19" value="User-supplied image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="352.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="329.5" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-23" value="Remapping food to database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="115" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-27" value="Food Name&lt;br&gt;(String)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="137.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-27" target="rD10jq5jBqiWgQs5DLjs-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="955" y="320" as="sourcePoint" />
+            <mxPoint x="1005" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-29" target="rD10jq5jBqiWgQs5DLjs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-29" value="Train mapping/simplification model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="930" y="135" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-30" value="Training for food name mapping/simplification" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="685" y="75" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-34" value="Trained mapping/simplification model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="352" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-9" target="rD10jq5jBqiWgQs5DLjs-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-38" value="Food Name&lt;br&gt;(String)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="155" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-40" value="May or may not be used, depending on the availability of pre-trained models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="220" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rD10jq5jBqiWgQs5DLjs-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="374.5" as="sourcePoint" />
+            <mxPoint x="540" y="399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-42" target="rD10jq5jBqiWgQs5DLjs-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-42" value="Food Name&lt;br&gt;(String)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="354.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-44" value="Simplified Food Name&lt;br&gt;(String)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="132.5" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-47" target="rD10jq5jBqiWgQs5DLjs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-47" value="Simplified Food Name&lt;br&gt;(String)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="347" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-34" target="rD10jq5jBqiWgQs5DLjs-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="400" as="sourcePoint" />
+            <mxPoint x="900" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD10jq5jBqiWgQs5DLjs-51" target="rD10jq5jBqiWgQs5DLjs-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="733" y="620" />
+              <mxPoint x="980" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rD10jq5jBqiWgQs5DLjs-51" value="Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="650" y="480" width="165" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
