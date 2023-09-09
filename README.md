@@ -34,7 +34,7 @@ This is a cross-platform application designed to make tracking your daily calori
 * **Model Evaluation**: TBD
 
 ## Use Case Diagram
-![Use Case Diagram](./Use%20Case%20Diagrams/v1.0/CV%20Calories%20v1.0.png)
+![Use Case Diagram](./Diagrams/v1.0/Use%20Case%20Diagram.png)
 
 ## Architecture
 ### Frontend
