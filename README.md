@@ -38,7 +38,7 @@ This is a cross-platform application designed to make tracking your daily calori
 
 ## Architecture
 ### Frontend
-TBD
+![Component_Hierarchy_Diagram](./Diagrams/v1.0/Component%20Hierarchy%20Diagram.png)
 ### Databse
 TBD
 ### Machine Learning
