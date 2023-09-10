@@ -49,4 +49,7 @@ Figma Diagram (Work in Prog): https://www.figma.com/file/iJP6Gb055rOCt3edaB5Otz/
 
 
 
+## Cloning:
+If you wish to clone this repo, make sure to also clone the submodules. You can do this by: git clone --recursive <URL-of-main-repo>, where you add in the url accordingly.
+
   
