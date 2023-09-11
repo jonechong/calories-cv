@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:jonechong/calories-cv-frontend.git
+	url = https://github.com/jonechong/calories-cv-frontend.git
 [submodule "ml"]
 	path = ml
-	url = https://github.com/jonechong/calories-cv-ml
+	url = https://github.com/jonechong/calories-cv-ml.git
