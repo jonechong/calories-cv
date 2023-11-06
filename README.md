@@ -34,15 +34,15 @@ This is a cross-platform application designed to make tracking your daily calori
 * **Model Evaluation**: TBD
 
 ## Use Case Diagram
-![Use Case Diagram](./Diagrams/v1.0/Use%20Case%20Diagram.png)
+![Use Case Diagram](./diagrams/v1.0/Use%20Case%20Diagram.png)
 
 ## Architecture
 ### Frontend
-![Component_Hierarchy_Diagram](./Diagrams/v1.0/Component%20Hierarchy%20Diagram.png)
+![Component_Hierarchy_Diagram](./diagrams/v1.0/Component%20Hierarchy%20Diagram.png)
 ### Database
-![Database Schema](./Diagrams/v1.0/Database%20Schema.png)
+![Database Schema](./diagrams/v1.0/Database%20Schema.png)
 ### Machine Learning
-![ML Pipeline](./Diagrams/v1.0/ML%20Pipeline.png)
+![ML Pipeline](./diagrams/v1.0/ML%20Pipeline.png)
 
 ## Figma UI Wireframes (May not be actual design)
 Figma Diagram (Work in Prog): https://www.figma.com/file/iJP6Gb055rOCt3edaB5Otz/cv-calories?type=design&node-id=0%3A1&mode=design&t=tOIJlxvQDAjwolk3-1
