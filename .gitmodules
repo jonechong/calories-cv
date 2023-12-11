@@ -4,3 +4,6 @@
 [submodule "model"]
 	path = model
 	url = https://github.com/jonechong/calories-cv-model.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jonechong/calories-cv-backend.git
