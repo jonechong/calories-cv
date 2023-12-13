@@ -49,6 +49,8 @@ This is a cross-platform application designed to make tracking your daily calori
 ### Machine Learning
 ![ML Pipeline](./diagrams/v1.0/ML%20Pipeline.png)
 
+For more info on the ML aspect of this project, do visit the ML repo: https://github.com/jonechong/calories-cv-model/tree/main
+
 ## Video
 
 https://drive.google.com/file/d/1QsXh_TSl-RuemDHeobQjXPuJZ3tXiO3T/view?usp=sharing
