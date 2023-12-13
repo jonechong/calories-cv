@@ -1,4 +1,4 @@
-# Calories CV v1.0 (Name TBD)
+# Calories CV v1.0
 ## Overview
 This is a cross-platform application designed to make tracking your daily caloric intake as simple as taking a picture. Users can snap photos of their meals or upload images to get estimated calorie counts.
 
@@ -49,12 +49,8 @@ This is a cross-platform application designed to make tracking your daily calori
 ### Machine Learning
 ![ML Pipeline](./diagrams/v1.0/ML%20Pipeline.png)
 
-## Figma UI Wireframes (May not be actual design)
-Figma Diagram (Work in Prog): https://www.figma.com/file/iJP6Gb055rOCt3edaB5Otz/cv-calories?type=design&node-id=0%3A1&mode=design&t=tOIJlxvQDAjwolk3-1
+## Video
 
-
-
-## Cloning:
-If you wish to clone this repo, make sure to also clone the submodules. You can do this by: git clone --recursive <URL-of-main-repo>, where you add in the url accordingly.
+https://drive.google.com/file/d/1QsXh_TSl-RuemDHeobQjXPuJZ3tXiO3T/view?usp=sharing
 
   
