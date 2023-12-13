@@ -12,7 +12,7 @@ This is a cross-platform application designed to make tracking your daily calori
 * View history of calorie intake
 
 ## Technology Stack
-* **Frontend**: React Native
+* **Frontend**: React Native (Expo CLI)
 * **Backend**: FastAPI
 * **Database**: (Frontend) SQlite
 * **Machine Learning**: (Framework) Pytorch, (Model Architecture) MobileNetV2
