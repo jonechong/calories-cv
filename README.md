@@ -13,14 +13,20 @@ This is a cross-platform application designed to make tracking your daily calori
 
 ## Technology Stack
 * **Frontend**: React Native
-* **Database**: SQlite/TBD
-* **Machine Learning**: TBD
+* **Backend**: FastAPI
+* **Database**: (Frontend) SQlite
+* **Machine Learning**: (Framework) Pytorch, (Model Architecture) MobileNetV2
 
 ## Functional Requirements:
 ### Frontend
 * **Camera Integration**: Access device's camera to take pictures (where applicable)
 * **Image Upload**: Upload image files
 * **User Interface**: User-friendly interface to execute use cases
+
+### Backend
+* **Image Processing**: Receive image data, process image and return predictions
+* **Model Inference**: Host machine learning model for image classification
+* **Database Operations**: Store and retrieve food item data
 
 ### Database
 * **Food Data**: Store food data for each food item
@@ -31,7 +37,6 @@ This is a cross-platform application designed to make tracking your daily calori
 * **Training Data**: Procure a large dataset of food images tagged with accurate calorie information for training the model.
 * **Validation Data**: Separate dataset to validate the model's performance.
 * **Test Data**: Dataset to evaluate performance of the model
-* **Model Evaluation**: TBD
 
 ## Use Case Diagram
 ![Use Case Diagram](./diagrams/v1.0/Use%20Case%20Diagram.png)
