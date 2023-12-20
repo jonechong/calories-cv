@@ -55,4 +55,7 @@ For more info on the ML aspect of this project, do visit the ML repo: https://gi
 
 https://drive.google.com/file/d/1QsXh_TSl-RuemDHeobQjXPuJZ3tXiO3T/view?usp=sharing
 
+## Notes
+ 
+Currently, the app is severely limited due to the amount of quality dataset and nutritional database that we have.
   
