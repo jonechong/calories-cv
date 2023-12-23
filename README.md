@@ -59,3 +59,5 @@ https://drive.google.com/file/d/1QsXh_TSl-RuemDHeobQjXPuJZ3tXiO3T/view?usp=shari
  
 Currently, the app is severely limited due to the amount of quality dataset and nutritional database that we have.
   
+Logo Designer & Credits:
+[@raykowithfries](https://www.instagram.com/raykowithfries/)
